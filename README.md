@@ -4,7 +4,7 @@ Getting data for football analysis can be difficult, I wanted to play and practi
 
 ## Repository details
 
-- Scrape data from [FotMob](www.fotmob.com)
+- Scrape data from [FotMob](https://www.fotmob.com)
 
 __What can you get from euroFinal.ipynb?__
 
